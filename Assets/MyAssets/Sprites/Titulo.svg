@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2000"
+   height="2000"
+   viewBox="0 0 529.16665 529.16668"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Titulo.svg"
+   inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Titulo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.25"
+     inkscape:cx="892"
+     inkscape:cy="1006"
+     inkscape:window-width="1360"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer6"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-nodes="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true" />
+  <defs
+     id="defs2">
+    <rect
+       x="922.06724"
+       y="1490.5811"
+       width="8.4852814"
+       height="42.426407"
+       id="rect85523" />
+    <rect
+       x="-28"
+       y="212"
+       width="700"
+       height="296"
+       id="rect62112" />
+    <rect
+       x="202.91702"
+       y="215.86917"
+       width="2080.9788"
+       height="293.58207"
+       id="rect1155" />
+    <rect
+       x="202.91702"
+       y="215.86917"
+       width="2080.9788"
+       height="293.58206"
+       id="rect1155-4" />
+    <rect
+       x="202.91702"
+       y="215.86917"
+       width="2080.9788"
+       height="293.58206"
+       id="rect1155-4-1" />
+    <rect
+       x="202.91702"
+       y="215.86917"
+       width="2080.9788"
+       height="293.58207"
+       id="rect36001" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter36003"
+       x="-0.0067252563"
+       y="-0.095385355"
+       width="1.0134505"
+       height="1.1907707">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.4466651"
+         id="feGaussianBlur36005" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Capa 2"
+     style="filter:url(#filter36003)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-47.462462,-49.932411)"
+       id="text1153-4"
+       style="font-style:normal;font-weight:normal;font-size:186.667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1155-4-1);fill:#000080;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Titulo1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="202.91797"
+         y="381.44278"
+         id="tspan963"><tspan
+           style="font-family:Rexlia;-inkscape-font-specification:Rexlia;fill:#333333"
+           id="tspan961">Default Game v0.5</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline;mix-blend-mode:darken">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-48.450082,-53.453076)"
+       id="text1153"
+       style="font-style:normal;font-weight:normal;font-size:186.667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1155);fill:#000080;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Titulo1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="202.91797"
+         y="381.44278"
+         id="tspan967"><tspan
+           style="font-family:Rexlia;-inkscape-font-specification:Rexlia"
+           id="tspan965">Default Game v0.5</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:label="Capa 1 copia"
+     inkscape:groupmode="layer"
+     id="g35999"
+     style="display:inline;mix-blend-mode:screen">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-50.065549,-56.280143)"
+       id="text35997"
+       style="font-style:normal;font-weight:normal;font-size:186.667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect36001);fill:#000080;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Titulo1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="202.91797"
+         y="381.44278"
+         id="tspan971"><tspan
+           style="font-family:Rexlia;-inkscape-font-specification:Rexlia"
+           id="tspan969">Default Game v0.5</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Boton1"
+     style="mix-blend-mode:multiply">
+    <g
+       id="g54422"
+       transform="matrix(0.88007404,0,0,1,17.991667,3.175)"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Inicio.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="rect38515">
+        <path
+           style="color:#000000;fill:#580000;fill-opacity:0.281125;stroke-width:1.05833;-inkscape-stroke:none"
+           d="M 29.073394,63.810947 H 198.66827 c 16.10667,0 29.0734,9.716832 29.0734,21.786618 v 24.276385 c 0,12.06978 -12.96673,21.78661 -29.0734,21.78661 H 29.073394 C 12.966733,131.66056 -2.2259192e-6,121.94373 -2.2259192e-6,109.87395 V 85.597565 C -2.2259192e-6,73.527779 12.966733,63.810947 29.073394,63.810947 Z"
+           id="path64891" />
+        <path
+           id="path64888"
+           style="color:#000000;fill:#300000;stroke-width:3.54566;-inkscape-stroke:none"
+           d="M 164.70898 251.17383 C 137.56755 251.17383 113.03188 260.45921 95.207031 275.63672 C 77.382183 290.81424 66.240234 311.9943 66.240234 335.51953 L 66.240234 427.26758 C 66.240234 449.56046 76.25646 469.73823 92.472656 484.70703 C 96.114974 489.3781 100.27277 493.71613 104.88867 497.64648 C 122.71352 512.82401 147.24725 522.11719 174.38867 522.11719 L 738.50195 522.11719 C 765.6434 522.11719 790.1771 512.82401 808.00195 497.64648 C 825.8268 482.46896 836.9707 461.29865 836.9707 437.77344 L 836.9707 346.01562 C 836.9707 323.7293 826.95972 303.56442 810.75195 288.59766 C 807.10616 283.91867 802.94437 279.57235 798.32227 275.63672 C 780.49742 260.45921 755.96372 251.17383 728.82227 251.17383 L 164.70898 251.17383 z M 164.70898 255.17383 L 728.82227 255.17383 C 752.26097 255.17383 773.63477 262.32099 790.125 274.10938 C 775.11489 266.21412 757.44829 261.67773 738.50195 261.67773 L 174.38867 261.67773 C 147.24725 261.67773 122.71352 270.96311 104.88867 286.14062 C 87.063825 301.31814 75.919922 322.4904 75.919922 346.01562 L 75.919922 437.77344 C 75.919922 447.82243 77.9687 457.43541 81.6875 466.3418 C 74.076871 454.76225 69.759766 441.45156 69.759766 427.26758 L 69.759766 335.51953 C 69.759766 313.42671 80.184098 293.42934 97.318359 278.83984 C 114.45262 264.25035 138.27546 255.17383 164.70898 255.17383 z M 174.38867 265.67773 L 738.50195 265.67773 C 764.93551 265.67773 788.75637 274.7484 805.89062 289.33789 C 806.7189 290.04315 807.51796 290.7718 808.31445 291.50195 C 818.11426 304.16547 823.76953 319.27084 823.76953 335.51953 L 823.76953 427.26758 C 823.76953 449.36035 813.34522 469.35776 796.21094 483.94727 C 779.07669 498.53677 755.25579 507.61328 728.82227 507.61328 L 164.70898 507.61328 C 138.27546 507.61328 114.45262 498.53677 97.318359 483.94727 C 96.484428 483.23719 95.68062 482.50289 94.878906 481.76758 C 85.089728 469.10861 79.441406 454.01261 79.441406 437.77344 L 79.441406 346.01562 C 79.441406 323.92281 89.865741 303.92738 107 289.33789 C 124.13426 274.7484 147.95515 265.67773 174.38867 265.67773 z M 821.51953 306.9375 C 829.13242 318.51832 833.44922 331.82937 833.44922 346.01562 L 833.44922 437.77344 C 833.44922 459.86625 823.02488 479.86167 805.89062 494.45117 C 788.75637 509.04064 764.93551 518.11719 738.50195 518.11719 L 174.38867 518.11719 C 150.95058 518.11719 129.57796 510.96947 113.08789 499.18164 C 128.09761 507.07631 145.76341 511.61328 164.70898 511.61328 L 728.82227 511.61328 C 755.96372 511.61328 780.49742 502.32788 798.32227 487.15039 C 816.14712 471.97287 827.29102 450.79279 827.29102 427.26758 L 827.29102 335.51953 C 827.29102 325.46699 825.24083 315.84806 821.51953 306.9375 z "
+           transform="matrix(0.30063758,0,0,0.26458333,-20.443356,-3.175)" />
+      </g>
+      <g
+         id="rect38515-0">
+        <g
+           id="g64993">
+          <path
+             style="color:#000000;fill:#580000;fill-opacity:0.281125;stroke-width:1.05833;-inkscape-stroke:none"
+             d="M 31.983811,66.589072 H 201.57869 c 16.10667,0 29.0734,9.716832 29.0734,21.786618 v 24.27639 c 0,12.06978 -12.96673,21.78661 -29.0734,21.78661 H 31.983811 c -16.10666,0 -29.0733933,-9.71683 -29.0733933,-21.78661 V 88.37569 c 0,-12.069786 12.9667333,-21.786618 29.0733933,-21.786618 z"
+             id="path64885" />
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:49.3889px;line-height:1.25;font-family:sans-serif;fill:#590000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="33.924393"
+       y="119.11057"
+       id="text44660"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Inicio.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.3889px;font-family:Rexlia;-inkscape-font-specification:Rexlia;fill:#590000;stroke-width:0.264583;fill-opacity:1"
+         x="33.924393"
+         y="119.11057"
+         id="tspan44662">Iniciar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:49.3889px;line-height:1.25;font-family:sans-serif;mix-blend-mode:multiply;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="36.485779"
+       y="121.88869"
+       id="text44660-5"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Inicio.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.3889px;font-family:Rexlia;-inkscape-font-specification:Rexlia;fill:#000000;stroke-width:0.264583"
+         x="36.485779"
+         y="121.88869"
+         id="tspan44662-5">Iniciar</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text62110"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect62112)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text85521"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect85523)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Boton2"
+     style="mix-blend-mode:multiply">
+    <rect
+       style="fill:#bac7ff;fill-opacity:1;stroke:#000730;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect88102"
+       width="499.90091"
+       height="65.855209"
+       x="18.055227"
+       y="149.5238"
+       rx="29.284613"
+       ry="21.786612"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\SeleccionarNivel.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="mix-blend-mode:multiply;fill:#bac7ff;fill-opacity:0.497462;stroke:#000730;stroke-width:1.05833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect88102-6"
+       width="499.90091"
+       height="65.855209"
+       x="20.768013"
+       y="151.76886"
+       rx="29.284613"
+       ry="21.786612"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\SeleccionarNivel.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:49.3889px;line-height:1.25;font-family:sans-serif;mix-blend-mode:multiply;fill:#001159;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="26.617857"
+       y="200.65121"
+       id="text44660-7"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\SeleccionarNivel.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.3889px;font-family:Rexlia;-inkscape-font-specification:Rexlia;fill:#001159;fill-opacity:1;stroke-width:0.264583"
+         x="26.617857"
+         y="200.65121"
+         id="tspan44662-1">Seleccionar Nivel</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.3889px;font-family:Rexlia;-inkscape-font-specification:Rexlia;fill:#001159;fill-opacity:1;stroke-width:0.264583"
+         x="26.617857"
+         y="262.38733"
+         id="tspan84805" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:49.3889px;line-height:1.25;font-family:sans-serif;mix-blend-mode:multiply;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="29.330643"
+       y="202.89627"
+       id="text44660-5-3"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\SeleccionarNivel.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.3889px;font-family:Rexlia;-inkscape-font-specification:Rexlia;fill:#000000;stroke-width:0.264583"
+         x="29.330643"
+         y="202.89627"
+         id="tspan44662-5-0">Seleccionar Nivel</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.3889px;font-family:Rexlia;-inkscape-font-specification:Rexlia;fill:#000000;stroke-width:0.264583"
+         x="29.330643"
+         y="264.63239"
+         id="tspan77282" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Boton3">
+    <rect
+       style="mix-blend-mode:multiply;fill:#424242;fill-opacity:0.281125;stroke:#000000;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8051"
+       width="193.82385"
+       height="68.100273"
+       x="18.187523"
+       y="237.20714"
+       rx="29.284613"
+       ry="21.786612"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Nivel1Off.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="mix-blend-mode:multiply;fill:#424242;fill-opacity:0.281125;stroke:#000000;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8051-0"
+       width="193.82385"
+       height="68.100273"
+       x="21.180946"
+       y="240.38765"
+       rx="29.284613"
+       ry="21.786612"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Nivel1Off.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:49.3889px;line-height:1.25;font-family:sans-serif;mix-blend-mode:multiply;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="31.884689"
+       y="292.6376"
+       id="text44660-5-32"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Nivel1Off.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.3889px;font-family:Rexlia;-inkscape-font-specification:Rexlia;fill:#000000;stroke-width:0.264583"
+         x="31.884689"
+         y="292.6376"
+         id="tspan8860">Nivel 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:49.3889px;line-height:1.25;font-family:sans-serif;mix-blend-mode:multiply;fill:#898989;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="28.891266"
+       y="289.45709"
+       id="text44660-5-32-4"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Nivel1Off.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.3889px;font-family:Rexlia;-inkscape-font-specification:Rexlia;fill:#898989;stroke-width:0.264583;fill-opacity:1"
+         x="28.891266"
+         y="289.45709"
+         id="tspan8860-9">Nivel 1</tspan></text>
+    <rect
+       style="mix-blend-mode:multiply;fill:#108700;fill-opacity:0.28112501;stroke:#000000;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8051-6"
+       width="193.82385"
+       height="68.100273"
+       x="245.99001"
+       y="237.20712"
+       rx="29.284613"
+       ry="21.786612"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Nivel1On.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="mix-blend-mode:multiply;fill:#108700;fill-opacity:0.28235295;stroke:#000000;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8051-0-9"
+       width="193.82385"
+       height="68.100273"
+       x="248.98343"
+       y="240.38763"
+       rx="29.284613"
+       ry="21.786612"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Nivel1On.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:49.3889px;line-height:1.25;font-family:sans-serif;mix-blend-mode:multiply;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="259.68716"
+       y="292.6376"
+       id="text44660-5-32-7"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Nivel1On.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.3889px;font-family:Rexlia;-inkscape-font-specification:Rexlia;fill:#000000;stroke-width:0.264583"
+         x="259.68716"
+         y="292.6376"
+         id="tspan8860-7">Nivel 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:49.3889px;line-height:1.25;font-family:sans-serif;mix-blend-mode:multiply;fill:#898989;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="256.69376"
+       y="289.45709"
+       id="text44660-5-32-4-0"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Nivel1On.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.3889px;font-family:Rexlia;-inkscape-font-specification:Rexlia;fill:#898989;fill-opacity:1;stroke-width:0.264583"
+         x="256.69376"
+         y="289.45709"
+         id="tspan8860-9-5">Nivel 1</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Boton4">
+    <rect
+       style="mix-blend-mode:multiply;fill:#424242;fill-opacity:0.281125;stroke:#000000;stroke-width:1.38046;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8051-3"
+       width="211.22882"
+       height="68.042732"
+       x="18.216291"
+       y="331.35483"
+       rx="31.914307"
+       ry="21.768204"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Nivel2On.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="mix-blend-mode:multiply;fill:#424242;fill-opacity:0.281125;stroke:#000000;stroke-width:1.38216;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8051-0-8"
+       width="211.75627"
+       height="68.041031"
+       x="21.210567"
+       y="334.53619"
+       rx="31.994001"
+       ry="21.767658"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Nivel2On.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:49.3889px;line-height:1.25;font-family:sans-serif;mix-blend-mode:multiply;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="31.884697"
+       y="386.75653"
+       id="text44660-5-32-8"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Nivel2On.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.3889px;font-family:Rexlia;-inkscape-font-specification:Rexlia;fill:#000000;stroke-width:0.264583"
+         x="31.884697"
+         y="386.75653"
+         id="tspan8860-93">Nivel 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:49.3889px;line-height:1.25;font-family:sans-serif;mix-blend-mode:multiply;fill:#898989;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="28.891266"
+       y="383.57602"
+       id="text44660-5-32-4-8"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Nivel2On.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.3889px;font-family:Rexlia;-inkscape-font-specification:Rexlia;fill:#898989;fill-opacity:1;stroke-width:0.264583"
+         x="28.891266"
+         y="383.57602"
+         id="tspan8860-9-0">Nivel 2</tspan></text>
+    <rect
+       style="mix-blend-mode:multiply;fill:#108700;fill-opacity:0.28235295;stroke:#000000;stroke-width:1.38046;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8051-3-1"
+       width="211.22882"
+       height="68.042732"
+       x="244.50183"
+       y="331.35483"
+       rx="31.914307"
+       ry="21.768204"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Nivel2Off.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="mix-blend-mode:multiply;fill:#108700;fill-opacity:0.28235295;stroke:#000000;stroke-width:1.38216;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8051-0-8-8"
+       width="211.75627"
+       height="68.041031"
+       x="247.49611"
+       y="334.53619"
+       rx="31.994001"
+       ry="21.767658"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Nivel2Off.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:49.3889px;line-height:1.25;font-family:sans-serif;mix-blend-mode:multiply;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="258.17023"
+       y="386.75653"
+       id="text44660-5-32-8-6"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Nivel2Off.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.3889px;font-family:Rexlia;-inkscape-font-specification:Rexlia;fill:#000000;stroke-width:0.264583"
+         x="258.17023"
+         y="386.75653"
+         id="tspan8860-93-5">Nivel 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:49.3889px;line-height:1.25;font-family:sans-serif;mix-blend-mode:multiply;fill:#898989;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="255.1768"
+       y="383.57602"
+       id="text44660-5-32-4-8-4"
+       inkscape:export-filename="C:\Users\br-j-\OneDrive\Documents\Simulacion\Proyecto\Assets\MyAssets\Sprites\Nivel2Off.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.3889px;font-family:Rexlia;-inkscape-font-specification:Rexlia;fill:#898989;fill-opacity:1;stroke-width:0.264583"
+         x="255.1768"
+         y="383.57602"
+         id="tspan8860-9-0-2">Nivel 2</tspan></text>
+  </g>
+</svg>
